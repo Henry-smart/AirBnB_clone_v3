@@ -154,7 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Henry-smart - [Github](https://github.com/Henry-smart) / [Twitter](https://twitter.com/henry eziechina)  
+Henry-smart - [Github](https://github.com/Henry-smart) / [Twitter](https://twitter.com/henry eziechina)
+Loveth okwudiri
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 Alexa orrico -  [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)
 Second part of Airbnb: Joann Vuong
