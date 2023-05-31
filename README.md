@@ -154,6 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
+Loveth Okwdiri - [Github](https://github.com/loveth007) / [Twitter](https://twitter.com/Loveth74550214)
 Henry-smart - [Github](https://github.com/Henry-smart) / [Twitter](https://twitter.com/henry eziechina)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 Alexa orrico -  [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)
